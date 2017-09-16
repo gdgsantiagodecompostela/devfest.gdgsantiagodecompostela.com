@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Vigo 2017"
-email: "devfest@gdg.org.ua"
+email: "info@gdgvigo.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "devfest.gdgvigo.com"
+baseurl: "/devfest.gdgvigo.com"
 url: "https://gdgspain.github.io/devfest.gdgvigo.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -30,7 +30,7 @@ organizerLink: "https://developers.google.com/groups/chapter/1062841815703260608
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, vigo"
-twitterAccount: "@DevFest"
+twitterAccount: "@GDGVigo"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
