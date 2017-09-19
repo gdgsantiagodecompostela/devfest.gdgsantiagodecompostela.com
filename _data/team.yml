@@ -2,7 +2,7 @@
   id: 0
   name: "Orestes"
   surname: "Carracedo"
-  title: "Sponsors and Speakers Manager"
+  title: "Full-stack ninja"
   thumbnailUrl: OrestesCarracedo.jpg
   team: true
   ribbon:
@@ -26,23 +26,10 @@
     - {name: "site", link: "http://http://anacidre.com/"}
 
 -
-  id: 2
-  name: "Abdon"
-  surname: "Rodríguez"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: AbdonRodriguez.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "github", link: "https://github.com/abdonrd"}
-    - {name: "twitter", link: "https://twitter.com/abdonrd?lang=en"}
-    - {name: "site", link: "https://abdonrd.com/"}
--
   id: 3
   name: "David"
   surname: "García"
-  title: "Android Program Committee"
+  title: "Full Stack Web Developer"
   thumbnailUrl: DavidGarcia.jpg
   team: true
   social:
@@ -53,10 +40,23 @@
   id: 4
   name: "Saúl"
   surname: "Molinero"
-  title: "Web and Cloud Program Committee"
+  title: "Android Enthusiast"
   thumbnailUrl: SaulMolinero.jpg
   team: true
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/_saulmm?lang=en"}
     - {name: "github", link: "https://github.com/saulmm"}
+-
+  id: 2
+  name: "Abdon"
+  surname: "Rodríguez"
+  title: "Frontend Developer and GDE"
+  thumbnailUrl: AbdonRodriguez.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "github", link: "https://github.com/abdonrd"}
+    - {name: "twitter", link: "https://twitter.com/abdonrd?lang=en"}
+    - {name: "site", link: "https://abdonrd.com/"}
