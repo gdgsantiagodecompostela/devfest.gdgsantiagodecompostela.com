@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "fireworks.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "Octubre, 2017"
+eventDate: "16 December, 2017"
 typeoutTextValues: '"", "Vigo"'
 typeoutFallback: "Season"
 heroButtons:
@@ -68,13 +68,16 @@ heroButtons:
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "gdg-devfest.png", text: "GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas. Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "gdgDevelopers.png", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
 
 # Statistic Block
 statisticBlockImage: "numbers-front.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees"}
- - {count: "8", specialCharacter: "+", info: "hours"}
+ - {count: "6", specialCharacter: "+", info: "hours"}
  - {count: "6", specialCharacter: "+", info: "speakers"}
+ - {count: "2", specialCharacter: "", info: "tracks"}
+
 
 # Latest News Block
 latestNewsTitle: "Latest news"
