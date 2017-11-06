@@ -2,4 +2,6 @@
   group: "Main organizer"
   elements: 
     - {name: "GDG Vigo", description: "GDG Vigo - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-vigo.svg"}
+    - {name: "GDG Ourense", description: "GDG Ourense - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-ourense.svg"}  
+    - {name: "GDG Coruña", description: "GDG Coruña - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-coruña.svg"}  
 - 

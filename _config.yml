@@ -58,7 +58,7 @@ rightNavigationButtons:
 heroImage: "fireworks.jpg"
 heroTitle: "GDG DevFest <typeout> 2017"
 eventDate: "16 December, 2017"
-typeoutTextValues: '"", "Vigo"'
+typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Become a speaker"}

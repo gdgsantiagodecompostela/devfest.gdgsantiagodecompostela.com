@@ -60,3 +60,28 @@
     - {name: "github", link: "https://github.com/abdonrd"}
     - {name: "twitter", link: "https://twitter.com/abdonrd?lang=en"}
     - {name: "site", link: "https://abdonrd.com/"}
+-
+  id: 5
+  name: "Germán"
+  surname: "Veras"
+  title: "Backend Developer"
+  thumbnailUrl: GermanVeras.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+Germ%C3%A1nVerasG%C3%B3mez"}
+    - {name: "github", link: "https://github.com/Gnonimus"}
+    - {name: "twitter", link: "https://twitter.com/GermanVeras"}
+-
+  id: 6
+  name: "Toni"
+  surname: "Martínez"
+  title: "Full Stack Developer en IBM Research"
+  thumbnailUrl: ToniMartinez.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/toniousli"}
+    - {name: "github", link: "https://github.com/tonimc"}
