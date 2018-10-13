@@ -10,33 +10,33 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Vigo 2017"
-email: "info@gdgvigo.com"
+title: "GDG DevFest Galicia 2018"
+email: "info@gdggalicia.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest.gdgvigo.com"
-url: "https://gdgspain.github.io/devfest.gdgvigo.com"
+baseurl: "/devfest"
+url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Vigo"
-organizerAlternateName: "Google Developer Group Vigo"
+organizerName: "GDG Galicia"
+organizerAlternateName: "Google Developer Group Galicia"
 organizerDescription: "Open and volunteer geek community who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "info@gdgvigo.com"
+organizerEmail: "info@gdggalicia.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://developers.google.com/groups/chapter/106284181570326060854/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, vigo"
-twitterAccount: "@GDGVigo"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, vigo, galicia, santiago, santiago de compostela"
+twitterAccount: "@GDGGalicia"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -50,18 +50,18 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Location"}
  #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
 bottomNavigationLinks:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "fireworks.jpg"
-heroTitle: "GDG DevFest <typeout> 2017"
-eventDate: "16 December, 2017"
+heroTitle: "GDG DevFest <typeout> 2018"
+eventDate: "17 November, 2018"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://gdgvigo.typeform.com/to/JvDH2h", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Become a speaker"}
  - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Sponsor us!"}
 
 # About Block
@@ -73,9 +73,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "numbers-front.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees"}
- - {count: "6", specialCharacter: "+", info: "hours"}
- - {count: "6", specialCharacter: "+", info: "speakers"}
+ - {count: "150", specialCharacter: "", info: "attendees"}
+ - {count: "8", specialCharacter: "", info: "hours"}
+ - {count: "8", specialCharacter: "", info: "speakers"}
  - {count: "2", specialCharacter: "", info: "tracks"}
 
 
@@ -93,10 +93,10 @@ locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
 eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Vigo"
-eventAddressLocalityRegion: "Pontevedra"
+eventAddressLocality: "Santiago de Compostela"
+eventAddressLocalityRegion: "A Coruña"
 eventPostalCode: "36202"
-eventAddressCountry: "Ukraine"
+eventAddressCountry: "Spain"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
@@ -169,7 +169,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/communities/104458805154699272096", icon: "google-plus"}
- - {link: "https://twitter.com/gdgvigo", icon: "twitter"}
+ - {link: "https://twitter.com/gdggalicia", icon: "twitter"}
  - {link: "https://www.facebook.com/pg/googledevelopergroupvigo/about/", icon: "facebook"}
  - {link: "https://github.com/GDGVigo", icon: "github"}
 footerBlocks:
@@ -180,7 +180,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@gdgvigo.com", text: "info@gdgvigo.com"}
+   - {link: "mailto:info@gdggalicia.com", text: "info@gdggalicia.com"}
  -
   title: "FAQ"
   links:
@@ -241,8 +241,8 @@ hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
 hackathonLocationLink: "http://communa.net.ua/"
 hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Vigo"
-hackathonAddressLocalityRegion: "Vigo"
+hackathonAddressLocality: "Santiago de Compostela"
+hackathonAddressLocalityRegion: "A Coruña"
 hackathonPostalCode: ""
 hackathonAddressCountry: "Spain"
 hackathonTimeTitle: "Firebase Appfest"

@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2018-10-13 21:00:00
 isStaticPost: false
 ---
-GDG DevFest Vigo 2017 is looking for awesome and inspiring people who would like to speak at our event in the small city of Vigo. The event will be held on the 21st-22nd October, however the DevFest is the 21st October! Sign up.
+GDG DevFest Galicia 2018 is looking for awesome and inspiring people who would like to speak at our event in the small city of Santiago de Compostela. The event will be held on the 17th November. Sign up.
 
 #### Presenters – who should speak at the DevFest Conference?
 
@@ -56,12 +56,11 @@ __General__
 * Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](https://gdgvigo.typeform.com/to/JvDH2h).
-__Deadline__ is September 20, 2017
+#### Please submit your proposals [here](https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link).
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
 The program committee picks the most interesting talk proposals and informs the selected submitters until September 30, 2017.<br/>
 
 #### Any questions? 
-Email organizers at [info@gdgvigo.com](mailto:info@gdgvigo.com)
+Email organizers at [info@gdggalicia.com](mailto:info@gdggalicia.com)
