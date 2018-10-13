@@ -1,10 +1,9 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Concello de Pontevedra", description: "Concello de Pontevedra", link: "http://www.pontevedra.gal/", imageUrl: "pontevedra_logo.png"}
-    - {name: "UVigo", description: "Universidade de Vigo", link: "https://www.uvigo.gal/uvigo_gl/", imageUrl: "uvigo_logo.jpg"}
+    - {name: "USC", description: "Universidade de Santiago de Compostela", link: "http://www.usc.es/", imageUrl: "usc_logo.svg"}
 -
   group: "With support of"
   elements: 
-    - {name: "your logo goes here", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
 - 

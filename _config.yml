@@ -50,37 +50,38 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Location"}
  #- {permalink: "/firebase-appfest/", text: "Firebase Appfest"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
 
 # Hero Block
 heroImage: "fireworks.jpg"
-heroTitle: "GDG DevFest <typeout> 2018"
-eventDate: "17 November, 2018"
+heroTitle: "GDG DevFest  <typeout> 2018"
+eventData: "ETSE, Santiago de Compostela, 17 de noviembre de 2018"
 typeoutTextValues: '"", "Galicia"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Become a speaker"}
- - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Sponsor us!"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdQyeImml-5LgDSoTTmGmEnLhuptfeT-9QS6--wV1FwIpkIsg/viewform?usp=sf_link", text: "Quiero dar una charla"}
+ - {link: "https://gdgvigo.typeform.com/to/Tx9PPS", text: "Quiero patrocinar"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Sobre los DevFest"
+aboutIntro: "Los GDG DevFest son eventos a gran escala dirigidos por la comunidad y para la comunidad que se celebran anualmente por todo el mundo. No hay dos DevFest iguales, todos están alimentados por la creencia de que cuando los desarrolladores se reúnen para intercambiar ideas, cosas increíbles pueden suceder."
 aboutBlock:
- - {title: "Conference", image: "gdg-devfest.png", text: "GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas. Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "gdgDevelopers.png", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conferencias", image: "gdg-devfest.png", text: "" }
+ - {title: "Talleres", image: "gdgDevelopers.png", text: "" }
 
 # Statistic Block
 statisticBlockImage: "numbers-front.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "", info: "attendees"}
- - {count: "8", specialCharacter: "", info: "hours"}
- - {count: "8", specialCharacter: "", info: "speakers"}
+ - {count: "150", specialCharacter: "", info: "asistentes"}
+ - {count: "8", specialCharacter: "", info: "horas"}
+ - {count: "8", specialCharacter: "", info: "ponentes"}
  - {count: "2", specialCharacter: "", info: "tracks"}
 
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -89,20 +90,19 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
+locationBlockTitle: "Ubicación"
+eventLocationName: "Escola Técnica Superior de Enxeñaría"
+eventStreetAddress: "Rúa de Lope Gómez de Marzoa, s/n, 15705 Santiago de Compostela, A Coruña"
 eventAddressLocality: "Santiago de Compostela"
 eventAddressLocalityRegion: "A Coruña"
-eventPostalCode: "36202"
+eventPostalCode: "15782"
 eventAddressCountry: "Spain"
-eventStartTime: "2014-10-25T10:00"
+eventStartTime: "2018-11-17T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "42.240065, -8.720963"
-mapCenterCoordinates: "42.240065, -8.720963"
-mapMobileCenterCoordinates: "42.240065, -8.720963"
+eventEndTime: "2018-11-17T20:00"
+eventPlaceCoordinates: "42.873358, -8.560104"
+mapCenterCoordinates: "42.873358, -8.560104"
+mapMobileCenterCoordinates: "42.873358, -8.560104"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -120,9 +120,9 @@ twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "Quiero ser patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -138,7 +138,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "150"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Sponsor Now"
+  buyButtonText: "Quiero patrocinar"
   ticketContentList: ["Logo en web", "Diapositiva conjunta", "Mención en social media"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
@@ -149,7 +149,7 @@ ticketsOffers:
   ticketsNumber: "800"
   featured: true
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Sponsor Now"
+  buyButtonText: "Quiero patrocinar"
   ticketContentList: ["All from High five ", "Logo en los títulos de la grabación", "Booth para contratar gente"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
@@ -159,7 +159,7 @@ ticketsOffers:
   priceCurrency: "€"
   ticketsNumber: "400"
   buyButtonLink: "https://gdgvigo.typeform.com/to/Tx9PPS"
-  buyButtonText: "Sponsor Now"
+  buyButtonText: "Quiero patrocinar"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["All from Shy guy", "Diapositiva propia", "Logo en Camisetas"]
   validFrom: "2014-08-20T10:00"
